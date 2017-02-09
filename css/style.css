@@ -1,0 +1,46 @@
+
+
+body {
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: digital;
+    src: url("../fonts/digital-7.ttf");
+}
+
+h1 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.center {
+    text-align: center;
+}
+
+.bordered {
+    border: 1px solid red;  
+    padding: 20px;
+    font-size: 28px;
+    font-family: digital;
+    color: red;
+}
+
+.digital {
+    font-family: digital;
+}
+
+.busy {
+    color: red;
+}
+
+.pause {
+    color: purple;
+}
+
+.free {
+    color: green;   
+}
